@@ -1,2 +1,2 @@
 # Forecast hourly bike rental demand
-Data Science project to establish a pattern for demands for the bike rental.
+Machine Learning project to establish a pattern for demands for the bike rental.
